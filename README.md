@@ -54,7 +54,7 @@ Financial Event Study Metrics
 
 📷 Dashboard Preview
 ![Executive Dashboard](Screenshots/Executive_View.png)
-![Executive Dashboard](Screenshots/Executive_View2.png)
+![Executive Dashboard](Screenshots/Executive_View2.png) 
 ![Executive Dashboard](Screenshots/Executive_View3.png)
 
 💡 Skills Demonstrated
