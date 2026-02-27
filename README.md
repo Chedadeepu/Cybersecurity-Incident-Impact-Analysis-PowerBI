@@ -74,11 +74,6 @@ Data Modeling (Star Schema) .
 
 Financial Event Study Metrics.
 
-📷 Dashboard Preview
-![Executive Dashboard](Downloads/Executive_View.png")
-![Executive Dashboard](Screenshots/Executive_View2.png) 
-![Executive Dashboard](Screenshots/Executive_View3.png)
-
 💡 Skills Demonstrated
 
 Data Modeling.
